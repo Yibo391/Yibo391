@@ -1,6 +1,6 @@
 # Hi there, I'm Yibo Wang 👋
 
-🌍 **Based in Frankfurt, Germany**
+🌍 **live in Frankfurt, Germany**
 
 ---
 
