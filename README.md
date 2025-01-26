@@ -1,13 +1,13 @@
 <!-- 
-  NOTE: Some Markdown viewers (including GitHub) may not fully support <marquee>.
-  Also, the GIF might not display if you’re offline or if certain permissions are blocked.
-  If you see raw HTML tags, your Markdown renderer might not support them.
+  NOTE: 
+  - The <marquee> tag is deprecated in HTML5 and may not work in all browsers or Markdown renderers (like GitHub).
+  - Inline CSS styling may also be ignored in some Markdown viewers.
 -->
 
 <h1 align="center" style="color: #ff5722;">
-  <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" width="40"/>
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" width="50"/>
   Yibo Wang
-  <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" width="40"/>
+  <img src="https://em-content.zobj.net/thumbs/120/apple/354/rocket_1f680.png" width="50"/>
 </h1>
 
 <p align="center">
@@ -18,44 +18,42 @@
 
 <hr style="border: 2px dashed #ff5722;" />
 
-<!-- Example of a marquee animation (HTML tag) -->
+<!-- Marquee text -->
 <marquee scrollamount="5" direction="left" behavior="scroll" style="font-weight: bold; color: #ff5722;">
-  Welcome to my Resume! 🚀
+  Welcome to my GitHub! 🚀
 </marquee>
 
-<!-- Alternatively, embed a small GIF as an "animation" -->
+<!-- Larger GIF -->
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo0cmVxZGE2djlqb2JyM2VqZGJ3OW5idWx1dG5tZWI4dDd2Z3Q4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbrSbKu4ocKd7o8wtt/giphy.gif" alt="Rocket Launch" width="120" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo0cmVxZGE2djlqb2JyM2VqZGJ3OW5idWx1dG5tZWI4dDd2Z3Q4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbrSbKu4ocKd7o8wtt/giphy.gif" alt="Rocket Launch" width="300" />
 </p>
 
 ---
 
-## 🚀 Summary
+## 🙋 About Me
 Master’s student in Computer Science at Technische Universität Darmstadt with hands-on experience in **web application development**.  
-Possesses a **solid foundation** and **up-to-date knowledge** in **machine learning** and **deep learning**.  
-Committed to continuous learning and effectively contributing to **software development** teams.
+Enthusiastic about **machine learning**, **deep learning**, and building **innovative solutions**.  
+Love to collaborate, learn new technologies, and contribute to open-source projects!
 
 <hr style="border: 1px solid #ff5722;" />
 
-## 🎓 Education
+## 🎓 My Background
 
-### Technische Universität Darmstadt  
-**Master of Science in Computer Science**  
-*(October 2023 – Present)*  
-- :sparkles: *Natural Language Processing*  
-- :sparkles: *Machine Learning*  
-- :sparkles: *Large Language Models*  
-- :sparkles: *Computer Vision*  
+### Technische Universität Darmstadt 
+**Master of Science in Computer Science** (October 2023 – Present)  
+- :sparkles: Natural Language Processing  
+- :sparkles: Machine Learning  
+- :sparkles: Large Language Models  
+- :sparkles: Computer Vision  
 
-### Linnaeus University • Växjö, Sweden  
-**Bachelor of Science in Software Technology**  
-*(August 2020 – August 2023)*  
-- :sparkles: *Database Management*  
-- :sparkles: *Computer Networks*  
-- :sparkles: *Operating Systems*  
-- :sparkles: *Web Programming*  
-- :sparkles: *Object-Oriented Programming (OOP)*  
-- :sparkles: *Software Testing*  
+### Linnaeus University – Växjö, Sweden
+**Bachelor of Science in Software Technology** (August 2020 – August 2023)  
+- :sparkles: Database Management  
+- :sparkles: Computer Networks  
+- :sparkles: Operating Systems  
+- :sparkles: Web Programming  
+- :sparkles: Object-Oriented Programming (OOP)  
+- :sparkles: Software Testing  
 
 <hr style="border: 1px solid #ff5722;" />
 
@@ -78,4 +76,4 @@ Committed to continuous learning and effectively contributing to **software deve
 ---
 
 ## 📬 Contact Me
-Feel free to reach out via [Email](mailto:wyibo00@outlook.com).  
+Feel free to reach out via [Email](mailto:wyibo00@outlook.com). 
