@@ -16,7 +16,7 @@
 </marquee>
 
 <!-- Alternatively, embed a small GIF as an "animation" -->
-<img src="https://media.giphy.com/media/h408T6Y5GfmXBFW0xG/giphy.gif" alt="Rocket Launch" width="100" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWo0cmVxZGE2djlqb2JyM2VqZGJ3OW5idWx1dG5tZWI4dDd2Z3Q4aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SbrSbKu4ocKd7o8wtt/giphy.gif" alt="Rocket Launch" width="100" />
 
 ---
 
